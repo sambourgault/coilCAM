@@ -1,5 +1,5 @@
 # coilCAM
-CoilCAM is a visual scripting plug-in for Rhino’s Grasshopper. It enables the use of mathematically-defined toolpaths in the generation of parametric forms and surface textures for 3D-printing ceramics. 
+CoilCAM is a visual scripting plug-in for Rhino’s Grasshopper. It enables the use of mathematically-defined toolpaths in the generation of parametric forms and surface textures for 3D-printing ceramics. See the [User Guide for more info.](https://ecl.mat.ucsb.edu/coilCAM)
 
 ## Installation
 1. Open Grasshopper
