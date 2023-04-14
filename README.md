@@ -7,3 +7,5 @@ CoilCAM is a visual scripting plug-in for Rhino’s Grasshopper. It enables the 
 3. Copy the user object (.ghuser) files from the CoilCAM user objects folder into the Grasshopper user objects folder
 
 The CoilCAM user objects should now appear in the Grasshopper toolbar. 
+
+More Info about the project can be found [here](https://ecl.mat.ucsb.edu/publication/coilcam).
