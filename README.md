@@ -6,6 +6,8 @@ CoilCAM is a visual scripting plug-in for Rhino’s Grasshopper. It enables the 
 ## Requirements
 Currently this library works only with Rhino 7 on both Mac and PC.
 
+(optional) In order to use the audioInterp object, you must have Python2 installed on your machine with the NumPy and SciPy libraries. See PythonRemote setup object for more information.
+
 ## Installation
 1. Open Grasshopper
 2. File > Special Folders > User Objects Folder to open the hidden user objects folder 
